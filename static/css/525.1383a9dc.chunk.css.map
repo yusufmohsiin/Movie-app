@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/525.1383a9dc.chunk.css","mappings":"AAAA,mBACE,2CAA6C,CAC7C,oBACF","sources":["Components/MoviesList/Pagination.css"],"sourcesContent":[".active.pageNumber {\r\n  background-color: var(--mainColor) !important;\r\n  color: white !important;\r\n}"],"names":[],"sourceRoot":""}
